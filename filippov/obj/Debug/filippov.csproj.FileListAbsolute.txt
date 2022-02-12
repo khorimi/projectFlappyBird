@@ -1,0 +1,12 @@
+C:\Users\Khorimi\Desktop\FlappyBird-master\FlappyBird\obj\Debug\filippov.csproj.AssemblyReference.cache
+C:\Users\Khorimi\Desktop\FlappyBird-master\FlappyBird\obj\Debug\filippov.csproj.SuggestedBindingRedirects.cache
+C:\Users\Khorimi\Desktop\FlappyBird-master\FlappyBird\obj\Debug\filippov.Properties.Resources.resources
+C:\Users\Khorimi\Desktop\FlappyBird-master\FlappyBird\obj\Debug\filippov.Resource1.resources
+C:\Users\Khorimi\Desktop\FlappyBird-master\FlappyBird\obj\Debug\filippov.csproj.GenerateResource.cache
+C:\Users\Khorimi\Desktop\FlappyBird-master\FlappyBird\obj\Debug\filippov.csproj.CoreCompileInputs.cache
+C:\Users\Khorimi\Desktop\FlappyBird-master\FlappyBird\bin\Debug\filippov.exe.config
+C:\Users\Khorimi\Desktop\FlappyBird-master\FlappyBird\bin\Debug\filippov.exe
+C:\Users\Khorimi\Desktop\FlappyBird-master\FlappyBird\bin\Debug\filippov.pdb
+C:\Users\Khorimi\Desktop\FlappyBird-master\FlappyBird\obj\Debug\filippov.Form1.resources
+C:\Users\Khorimi\Desktop\FlappyBird-master\FlappyBird\obj\Debug\filippov.exe
+C:\Users\Khorimi\Desktop\FlappyBird-master\FlappyBird\obj\Debug\filippov.pdb
